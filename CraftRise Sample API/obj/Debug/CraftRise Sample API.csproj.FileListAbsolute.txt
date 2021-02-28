@@ -1,0 +1,7 @@
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\bin\Debug\CraftRise Sample API.exe.config
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\bin\Debug\CraftRise Sample API.exe
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\bin\Debug\CraftRise Sample API.pdb
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\obj\Debug\CraftRise Sample API.csprojAssemblyReference.cache
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\obj\Debug\CraftRise Sample API.csproj.CoreCompileInputs.cache
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\obj\Debug\CraftRise Sample API.exe
+C:\Users\mertk\source\repos\CraftRise Sample API\CraftRise Sample API\obj\Debug\CraftRise Sample API.pdb
